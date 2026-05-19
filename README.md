@@ -18,22 +18,22 @@ This is the backend repository for the **Waste Mapping Web Platform (TecLimpas)*
 1. Clone the repository:
    ```
    git clone https://github.com/Elisamoraisnunes/teclimpas-backend.git
-   ´´´
+   
 2. Navigate to the project directory:
    ```
    cd teclimpas-backend
-   ´´´
+   
 3. Install dependencies:
    ```
    npm install
-   ´´´
+   
 4. Set up your environment variables (.env):
    ```
    SUPABASE_URL=your_supabase_url
    GEMINI_API_KEY=your_gemini_key
    PORT=3000
-   ´´´
+   
 5.Start the server:
    ```
    npm start
-   ´´´
+   
