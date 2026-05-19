@@ -1,3 +1,7 @@
+# Waste Mapping Web Platform - Ponto Verde 🌿
+
+[![Deploy](https://img.shields.shields.shields.shields.shields.io/badge/Live_Demo-🚀-success?style=for-the-badge)](https://pontoverde2026.github.io/pontoverde-ui/)
+
 # TecLimpas - Backend
 
 This is the backend repository for the **Waste Mapping Web Platform (TecLimpas)**, a full-stack application designed to structure geospatial waste data and automate tasks using AI.
